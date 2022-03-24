@@ -8,4 +8,4 @@
 
 <br>
 
-[🐝] Edit **config.yml** To Block Devices Of Your Choice !
+[🐝] Edit **config.yml** To Block The Device You Want
