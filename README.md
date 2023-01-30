@@ -8,7 +8,7 @@
 
 # Notice
 
-[🍓] Plugin For API 4 , API 3 Will Not Be Supported
+[🍓] Plugin For API 5 , API 4, 3 Will Not Be Supported
 
 <br>
 
